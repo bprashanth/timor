@@ -1,4 +1,8 @@
-# Frappe cloud architecture
+# Timor 
+
+A hello world frappe application. 
+
+## Frappe cloud architecture
 
 ```
 server 1			server 2
